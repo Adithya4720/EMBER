@@ -2,6 +2,7 @@
     text-align: center;
     color: coral;
     font-size: xx-large;
+    font-family: Inter;
 }
 body{
     background-color: black;
@@ -16,4 +17,5 @@ body{
     background-color: aliceblue;
     text-align: center;
     font-size: xx-large;
+    font-family: Inter;
 }
