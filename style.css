@@ -2,11 +2,11 @@
     text-align: center;
     color: coral;
     font-size: xx-large;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
 }
 body{
     background-color: black;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
 }
 .left_box{
     width: 400px;
@@ -17,5 +17,5 @@ body{
     background-color: aliceblue;
     text-align: center;
     font-size: xx-large;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
 }
