@@ -19,3 +19,25 @@ body{
     font-size: xx-large;
     font-family: 'Inter', sans-serif;
 }
+.button-container {
+    position: relative;
+}
+
+.my-button {
+    padding: 10px;
+}
+
+.options-container {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    display: none;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+
+.option {
+    display: block;
+    margin-bottom: 5px;
+}
