@@ -19,25 +19,18 @@ body{
     font-size: xx-large;
     font-family: 'Inter', sans-serif;
 }
-.button-container {
-    position: relative;
+.hover-text {
+    font-size: 30px;
+    
+    transition: font-size 0.3s;
+    
 }
 
-.my-button {
-    padding: 10px;
+.hover-text:hover {
+    font-size: 40px;
+    
 }
-
-.options-container {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    display: none;
-    padding: 10px;
-    background-color: #fff;
-    border: 1px solid #ccc;
-}
-
-.option {
-    display: block;
-    margin-bottom: 5px;
+a{
+    text-decoration: none;
+    color:black;
 }
